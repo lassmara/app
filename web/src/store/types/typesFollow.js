@@ -1,4 +1,0 @@
-export const GET_FOLLOW = "GET_FOLLOW";
-export const LOADING_FOLLOW = "LOADING_FOLLOW";
-
-export const REMOVE_FOLLOW = "REMOVE_FOLLOW";
