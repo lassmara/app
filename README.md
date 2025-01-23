@@ -1,27 +1,4 @@
-<h1 align="center">
-<br>
-  <img src="./.github/logo.svg" alt="Photogram" width="120">
-<br>
-<br>
-Photogram (Intagram clone)
-</h1>
 
-<p align="center">instagram clone with the necessary functionalities of this great the internet</p>
-
-<p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="httpss://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
-  </a>
-</p>
-
-[//]: # "Add your gifs/images here:"
-
-<div>
-  <img src="./.github/photogram.gif" alt="demo" height="425">
-  <!-- <img src="IMAGE_2_URL" alt="demo" height="425"> -->
-</div>
-
-<hr />
 
 ## Features
 
